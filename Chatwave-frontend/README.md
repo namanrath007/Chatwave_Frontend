@@ -20,5 +20,3 @@ This application is help to chat with your friends friend thorugh web page.
 ### Select your favourite emoji
 ![image](https://github.com/JaiBhalla03/Chatwave-frontend/assets/101990594/f617127b-0dd8-46f3-8568-f38f5e65ab9a)
 
-#### Website is deployed using netlify at: [https://chat-wave-jaibhalla03.netlify.app/]
-#### Backend is deployed using render at: [https://chatwave-backend-jaibhalla03.onrender.com]
